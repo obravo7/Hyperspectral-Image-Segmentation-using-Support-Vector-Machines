@@ -8,4 +8,6 @@ This was an assignment for a graduate course in Remote Sensing taught at [Shangh
 
 # Data
 
-[The indian pines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Indian_Pines) scene is open source hyper spectral image data. It has the following 
+[The indian pines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Indian_Pines) scene is open source hyper spectral image data. The data is well documented, and list the classes with the corresponding number of pixels. The script takes only nine of these classes. 
+
+![classes](classes.png)
